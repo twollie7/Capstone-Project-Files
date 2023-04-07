@@ -23,3 +23,4 @@ The hotel reservation file contains quantitative and qualitative attributes of c
 18.	no_of_special_requests: Total number of special requests made by the customer (e.g., high floor, view from the room, etc)
 19.	booking_status: Flag indicating if the booking was canceled or not. This is the target variable.
 
+Raza, A. (2023). Hotel Reservations dataset. Kaggle. Retrieved February 26, 2023, from https://www.kaggle.com/datasets/ahsan81/hotel-reservations-classification-dataset. 
