@@ -1,7 +1,8 @@
 # Capstone-Project-Files
-Excel File -Hotel Res Data
-SAS Source Code
-About the Data
+
+/* Excel File -Hotel Res Data
+/* SAS Source Code
+/* About the Data
 The hotel reservation file contains quantitative and qualitative attributes of customers' reservation details(Raza, 2023). The detailed data dictionary is given below. These attributes will be analyzed to see if they can be used as predictor variables to predict the target variable, reservation cancelled or not.
 1.	Booking_ID: unique identifier of each booking
 2.	no_of_adults: Number of adults.
